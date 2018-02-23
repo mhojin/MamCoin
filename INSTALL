@@ -1,0 +1,9 @@
+Building MamCoin
+
+See doc/readme-qt.rst for instructions on building MamCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MamCoin.
+
+See doc/build-*.txt for instructions on building MamCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MamCoin.
